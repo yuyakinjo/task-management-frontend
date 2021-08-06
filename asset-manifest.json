@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://github.com/yuyakinjo/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://github.com/yuyakinjo/task-management-frontend/static/js/main.d4162da8.chunk.js",
-    "main.js.map": "https://github.com/yuyakinjo/task-management-frontend/static/js/main.d4162da8.chunk.js.map",
-    "runtime~main.js": "https://github.com/yuyakinjo/task-management-frontend/static/js/runtime~main.b8246492.js",
-    "runtime~main.js.map": "https://github.com/yuyakinjo/task-management-frontend/static/js/runtime~main.b8246492.js.map",
-    "static/js/2.0f3f8c03.chunk.js": "https://github.com/yuyakinjo/task-management-frontend/static/js/2.0f3f8c03.chunk.js",
-    "static/js/2.0f3f8c03.chunk.js.map": "https://github.com/yuyakinjo/task-management-frontend/static/js/2.0f3f8c03.chunk.js.map",
-    "index.html": "https://github.com/yuyakinjo/task-management-frontend/index.html",
-    "precache-manifest.cc73e68f00eff938d3965b2de4f1027f.js": "https://github.com/yuyakinjo/task-management-frontend/precache-manifest.cc73e68f00eff938d3965b2de4f1027f.js",
-    "service-worker.js": "https://github.com/yuyakinjo/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://github.com/yuyakinjo/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://yuyakinjo.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://yuyakinjo.github.io/task-management-frontend/static/js/main.a4ec38de.chunk.js",
+    "main.js.map": "https://yuyakinjo.github.io/task-management-frontend/static/js/main.a4ec38de.chunk.js.map",
+    "runtime~main.js": "https://yuyakinjo.github.io/task-management-frontend/static/js/runtime~main.d5dc50b5.js",
+    "runtime~main.js.map": "https://yuyakinjo.github.io/task-management-frontend/static/js/runtime~main.d5dc50b5.js.map",
+    "static/js/2.57ab6607.chunk.js": "https://yuyakinjo.github.io/task-management-frontend/static/js/2.57ab6607.chunk.js",
+    "static/js/2.57ab6607.chunk.js.map": "https://yuyakinjo.github.io/task-management-frontend/static/js/2.57ab6607.chunk.js.map",
+    "index.html": "https://yuyakinjo.github.io/task-management-frontend/index.html",
+    "precache-manifest.72faa0b6e9d3690f279b24a44411c6f0.js": "https://yuyakinjo.github.io/task-management-frontend/precache-manifest.72faa0b6e9d3690f279b24a44411c6f0.js",
+    "service-worker.js": "https://yuyakinjo.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://yuyakinjo.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
